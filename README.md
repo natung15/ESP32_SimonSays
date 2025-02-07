@@ -8,3 +8,6 @@ Here is a video of a shortened version of the game where only three parts of the
 # Simon Says Lose Sequence
 Here is a video of the lose sequence
 [Watch the Demo Video](https://youtube.com/shorts/PHovYpEphj0?feature=share)
+
+# Simon Says State Diagram
+![State Diagram](Simonsays_stateDiagram.png)
